@@ -1,4 +1,4 @@
-# Mathematical strories
+# Mathematical stories
 
 Every day we publish a new exciting story about mathematics.
 
